@@ -10,7 +10,7 @@ The dataset is a variation of the RFM model (Recency, Frequency, Monetary Value)
 	• F (Frequency - total number of donation)
 	• M (Monetary - total blood donated in c.c.)
 	• T (Time - months since the first donation)
-  • Target variable (1 stands for donating blood; 0 stands for not donating blood)
+  	• Target variable (1 stands for donating blood; 0 stands for not donating blood)
 
 
 
